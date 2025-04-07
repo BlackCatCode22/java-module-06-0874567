@@ -1,0 +1,11 @@
+Crow Habitat:
+Cr01; Hinata; birth date: 2021-01-01; black color; male; 60 pounds; from from Miyagi Prefecture; arrived 2025-04-06
+
+Cat Habitat:
+Ca01; Kenma; birth date: 2022-01-01; grey color; male; 45 pounds; from from Tokyo; arrived 2025-04-06
+
+Owl Habitat:
+Ow01; Akaashi; birth date: 2023-01-01; white color; male; 55 pounds; from from Tokyo; arrived 2025-04-06
+
+Wolf Habitat:
+Wo01; Oikawa; birth date: 2020-01-01; silver color; male; 65 pounds; from from Aoba Johsai; arrived 2025-04-06
